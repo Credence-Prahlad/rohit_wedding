@@ -387,7 +387,7 @@ img {
  
 .bottom_decoration {
 	width: 120px;
-	height: 100px;
+	height: 80px;
 }  
 
 .location a{
@@ -398,8 +398,8 @@ img {
 
  @media only screen and (max-width: 600px) {
 	.top_decoration {
-	  width: 80px;
-	  height: 60px;
+	  width: 100px;
+	  height: 30;
 	}
   }
 
